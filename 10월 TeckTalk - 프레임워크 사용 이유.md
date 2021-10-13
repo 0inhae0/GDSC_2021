@@ -26,6 +26,6 @@
 
 - 서버에 최초 요청 시에 HTML을 비롯해 CSS, Javascript 등 각종 리소스를 받아오는 방식
 
-<img src="C:\Users\user\Desktop\인해\GDSC" alt="CSR.png">
 
-장점: ![CSR](C:\Users\user\Desktop\인해\GDSC\CSR.png)
+![CSR](https://user-images.githubusercontent.com/43808931/137118268-ba9b7b3e-b0bc-4969-a959-11195f15761b.png)
+
